@@ -15,7 +15,7 @@
        <li>ArCore uyumlu bir cihaz. Bu linkten inceleyebilirsiniz: https://developers.google.com/ar/devices?hl=tr</li>
    </ul>
    <h2 align="left">Kurulum ve Kullanım</h2>
- <p align="left"> 1- APK dosyası veya projenin içinde uygulamayı cihazınıza kurun.
+ <p align="left"> 1- Projenin içinde uygulamayı build edip apk dosyası ile cihazınıza kurun.
 <br>
         2-Yerleştirmek istediğiniz koltuğu seçin.<br>
         3-Kamera koltuk yerleştirebileceğiniz alanı gösterecektir istediğiniz alana tıklayarak koltuğu yerleştirebilirsiniz.
