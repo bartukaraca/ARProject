@@ -1,6 +1,6 @@
 <h1 align="center">Yazılım Geliştirme Labaratuvarı AR Projesi</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="left">Abstract</h2>
+<p align="left">Unity oyun motoru kullanılarak geliştirilen ve mobil cihazlarda çalışan bir artırılmış gerçeklik (AR) uygulamasını detaylı bir şekilde incelemektedir. Uygulama, kullanıcıların gerçek dünyayı kamerayla gördükleri ortama sanal koltuklar eklemelerine olanak tanır. Kullanıcılar, kamerayı çevirdiklerinde belirli bir alanda 3 farklı koltuk türünden birini seçebilir ve bu koltuğun sanal ortamdaki görüntüsünü gözlemleyebilirler.  Unity, öncelikli olarak bilgisayarlar, konsollar ve mobil cihazlar için video oyunları ve simülasyonları geliştirmek için kullanılan ve Unity Technologies tarafından geliştirilen çapraz platform bir oyun motorudur
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
